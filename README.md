@@ -1,6 +1,6 @@
 <h3>Noob JS HTML CSS, but I' m working on it, you know?</h3>
 
-[codepen](https://codepen.io/your-work/)
+[codepen](https://codepen.io/yaroslavskiba-the-animator)
 [linkedIn](https://www.linkedin.com/in/%D0%BF%D0%B0%D0%B2%D0%B5%D0%BB-%D0%B2%D0%BE%D1%80%D0%BE%D0%B1%D1%8C%D0%B5%D0%B2-4ba528256/)
 [freecodecamp](https://www.freecodecamp.org/Yaroslavskiba)
 
