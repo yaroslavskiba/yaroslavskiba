@@ -1,4 +1,4 @@
-### Noob JS HTML CSS, but I' m working on it, you know? 
+<h3> Noob JS HTML CSS, but I' m working on it, you know? </h3>
 ### <a href="https://www.linkedin.com/in/%D0%BF%D0%B0%D0%B2%D0%B5%D0%BB-%D0%B2%D0%BE%D1%80%D0%BE%D0%B1%D1%8C%D0%B5%D0%B2-4ba528256/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"></a> <a href="https://www.freecodecamp.org/Yaroslavskiba"><img src="https://img.shields.io/badge/freeCodeCamp-0A0A23.svg?style=for-the-badge&logo=freeCodeCamp&logoColor=white"></a> <a href="yaroslavskiba322@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"></a>
 ###
 ##
