@@ -6,7 +6,7 @@
   
 <!--   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yaroslavskiba&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) -->
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaroslavskiba&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaroslavskiba&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ### <div align="center"><a href="https://www.codewars.com/users/yaroslavskiba322"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white"/></a><a href="https://www.linkedin.com/in/%D0%BF%D0%B0%D0%B2%D0%B5%D0%BB-%D0%B2%D0%BE%D1%80%D0%BE%D0%B1%D1%8C%D0%B5%D0%B2-4ba528256/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"></a><a href="https://www.freecodecamp.org/Yaroslavskiba"><img src="https://img.shields.io/badge/freeCodeCamp-0A0A23.svg?style=for-the-badge&logo=freeCodeCamp&logoColor=white"></a><a href="mailto:yaroslavskiba322@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"></a>
