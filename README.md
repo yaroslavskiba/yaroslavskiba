@@ -18,7 +18,14 @@
 ###
 ##
 ### 𝙲𝙾𝙳𝙴𝚆𝙰𝚁𝚂:
-<!-- ###  𝙻𝙴𝙴𝚃𝙲𝙾𝙳𝙴: -->
-<img src="https://www.codewars.com/users/yaroslavskiba322/badges/large">
+<div align="center">
+  <img src="https://www.codewars.com/users/yaroslavskiba322/badges/large">
+</div>
+
+### 𝙻𝙴𝙴𝚃𝙲𝙾𝙳𝙴:
+<div align="center">
+  
+  [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=yaroslavskiba)](https://github.com/madushadhanushka/github-readme)
+</div>
 <!-- <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fyaroslavskiba&logo=leetcode&logoColor=yellow"> -->
   
